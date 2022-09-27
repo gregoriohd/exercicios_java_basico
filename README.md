@@ -3,3 +3,5 @@
 ### AntecessorSucessor
 ### MediaDasMedias
 ### IdadeEmDias
+### AnoBissexto
+### Incremento
